@@ -1,6 +1,5 @@
 <h1>
-  <img src="https://github.com/user-attachments/assets/0c2b6a85-34f9-431d-b222-21fac34231ac" width="80" style="vertical-align: middle; margin-left: 10px;" />
-  Nuthur
+  <img src="https://github.com/user-attachments/assets/0c2b6a85-34f9-431d-b222-21fac34231ac" width="100" style="vertical-align: middle; margin-left: 30px;" />
 </h1>
 
 ## **Problem Statement**
