@@ -1,8 +1,6 @@
 <p align="rithg">
   <img src="https://github.com/user-attachments/assets/0c2b6a85-34f9-431d-b222-21fac34231ac" width="120" />
-</p>
-
-# **Nuthur – Early Wildfire Prediction System Using Artificial Intelligence**
+</p># **Nuthur – Early Wildfire Prediction System Using Artificial Intelligence**
 
 ## **Problem Statement**
 
