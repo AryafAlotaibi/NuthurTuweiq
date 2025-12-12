@@ -42,13 +42,21 @@ NASA FIRMS: fire location, time, intensity, and confidence
 After cleaning: 613 records (73 fire, 540 no-fire)
 Weather variables and FWI components added using the Open-Meteo API
 
-**Total merged dataset:** 857 samples – 14 features
+
+### **Merged Dataset for Model Training**
+
+We combined (merged) the cleaned local dataset with the open-source Algeria dataset to create a unified training dataset used for developing our wildfire prediction models.
+
+**Total merged samples: 857**
+
+**Number of features: 14**
 
 the Datasets Will be available soon
 
 ---
 
 ## **Models Used**
+We developed models for wildfire prediction using both ML and DL algorithms. This included experimenting with more than 10 models under three different data-balance scenarios: no balancing, oversampling, and undersampling.
 
 ### **Machine Learning Models**
 
